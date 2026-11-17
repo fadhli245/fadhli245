@@ -1,4 +1,4 @@
-# <img src="./img/profile-banner.mp4" />
+# <img src="./img/BANNER1.jpg alt="Muhammad Raja Daffa banner" width="100%" />
 
 <!-- <h1 align="center">Muhammad Fadhli Ihsan</h1> -->
 <p align="center">
