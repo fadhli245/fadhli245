@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
-  <img src="./assets/filament-badge.svg" alt="Filament" />
   <img src="https://img.shields.io/badge/Vue.js-111827?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Nuxt-111827?style=for-the-badge&logo=nuxt&logoColor=00DC82" alt="Nuxt" />
   <img src="https://img.shields.io/badge/Pinia-111827?style=for-the-badge&logo=pinia&logoColor=FFD859" alt="Pinia" />
@@ -31,13 +30,7 @@
 
 ## GitHub Statistics
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" />
-    </td>
-  </tr>
-</table>
+![](https://streak-stats.demolab.com/?user=fadhli245&theme=shadow_blue&hide_border=true)
 
 <p>
   <picture>
