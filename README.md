@@ -1,4 +1,4 @@
-# <img src="./img/BANNER1.jpg" alt="Muhammad Fadhli Ihsan" width="100%" />
+# <img src="./img/profile-banner1.jpg" alt="Muhammad Fadhli Ihsan" width="100%" />
 
 <!-- <h1 align="center">Muhammad Fadhli Ihsan</h1> -->
 <p align="center">
