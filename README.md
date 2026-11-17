@@ -36,9 +36,6 @@
     <td width="50%" align="center">
       <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/fadhli245/fadhli245/main/metrics."/>
-    </td>
   </tr>
 </table>
 
